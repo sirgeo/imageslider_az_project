@@ -1,1 +1,1 @@
-# imageslider_case_solved
+# Image Slider for AZ Project showing Google Earth and Tree Class before/after
